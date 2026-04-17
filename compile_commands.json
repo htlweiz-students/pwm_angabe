@@ -1,0 +1,8 @@
+[
+    {
+        "command": "/home/robert/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/328p16m/src/main.o -c -Wno-error=narrowing -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DF_CPU=16000000L -DPLATFORMIO=60119 -DARDUINO_AVR_MICRODUINO_CORE -Isrc src/main.cpp",
+        "directory": "/home/robert/Unison/Development/htl/lehre/2526/3ahet/pwm",
+        "file": "src/main.cpp",
+        "output": ".pio/build/328p16m/src/main.o"
+    }
+]
